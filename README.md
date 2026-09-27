@@ -11,8 +11,8 @@ My work focuses on turning ideas into functional prototypes and real-world solut
 
 🛠 Tech Stack
 **Electronics:** Arduino, ESP32, Raspberry Pi, Sensors, Relays
-**Electrical:** Industrial Electronics, Motor Control, VFDs, Electrical Wiring, Load Calculations, Solar PV Systems, Battery Systems, 
-Charge Controllers, Inverters
+**Electrical:** Industrial Electronics, Motor Control, VFDs, Electrical Wiring, Load Calculations, 
+Solar PV Systems, Battery Systems, Charge Controllers, Inverters
 **IoT & Hardware:** LoRa, GPS, GSM, Environmental Sensors, Energy Monitoring
 **Fabrication:** 3D Printing, PCB Prototyping, Laser Cutting, CNC, Mechanical Assembly
 **CAD & Design:** Autodesk Fusion, Autodesk AutoCAD, EagleCAD, Aurora Solar, Scanifly, Orca
