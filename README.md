@@ -46,21 +46,28 @@ Tech: Arduino Mega, 24/36 Relays, Custom Wiring, Braille Mapping
 
 
 🔧 **Areas of Interest**
+
 Electronics & Embedded Hardware
 
 IoT & Smart Devices
 
-Renewable Energy Systems
 Solar Energy Technology
+
 PCB & Circuit Prototyping
-3D Printing & Additive Manufacturing
+
+3D Printing & 3D Modelling
+
 CAD & Mechanical Design
+
 Product Development & Prototyping
+
 Automation & Control Systems
-Technical Project Management
 
 
 📫 Connect with me
+
 Portfolio: Link
+
 LinkedIn: Link
+
 Email: email@example.com
