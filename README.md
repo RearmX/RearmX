@@ -13,6 +13,7 @@ CAD & Design: Autodesk Fusion, Autodesk AutoCAD, EagleCAD, Aurora Solar, Scanifl
 
 
 🚀 Featured Projects
+
 Smart Hydroponics IoT Chamber
 
 An automated hydroponics system designed to monitor and control environmental conditions such as temperature, humidity, light, and water-related parameters for controlled plant growth.
