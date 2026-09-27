@@ -2,7 +2,7 @@
 
 Hi there, I'm Isaiah Beldia 👋
 
-I'm an **Electronics & Fabrication Enthusiast** building projects at the intersection of **Electronics, IoT, Fabrication, and Renewable Energy**.
+I'm an **Embedded Engineer** building projects at the intersection of **Electronics, IoT, Fabrication, and Renewable Energy**.
 
 With **8 years of experience**, I've worked on and delivered **500+ projects** across 
 **electronics, electrical systems, solar energy, IoT, 3D printing, CAD, and product fabrication**.
@@ -10,11 +10,15 @@ My work focuses on turning ideas into functional prototypes and real-world solut
 **industrial electronics and motor control to solar PV systems, automation, custom hardware, and fabricated products**.
 
 🛠 Tech Stack
+
 **Electronics:** Arduino, ESP32, Raspberry Pi, Sensors, Relays
+
 **Electrical:** Industrial Electronics, Motor Control, VFDs, Electrical Wiring, Load Calculations, 
 Solar PV Systems, Battery Systems, Charge Controllers, Inverters
+
 **IoT & Hardware:** LoRa, GPS, GSM, Environmental Sensors, Energy Monitoring
 **Fabrication:** 3D Printing, PCB Prototyping, Laser Cutting, CNC, Mechanical Assembly
+
 **CAD & Design:** Autodesk Fusion, Autodesk AutoCAD, EagleCAD, Aurora Solar, Scanifly, Orca
 
 
