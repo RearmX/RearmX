@@ -17,6 +17,7 @@ My work focuses on turning ideas into functional prototypes and real-world solut
 Solar PV Systems, Battery Systems, Charge Controllers, Inverters
 
 **IoT & Hardware:** LoRa, GPS, GSM, Environmental Sensors, Energy Monitoring
+
 **Fabrication:** 3D Printing, PCB Prototyping, Laser Cutting, CNC, Mechanical Assembly
 
 **CAD & Design:** Autodesk Fusion, Autodesk AutoCAD, EagleCAD, Aurora Solar, Scanifly, Orca
