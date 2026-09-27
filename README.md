@@ -9,7 +9,7 @@ With **8 years of experience**, I've worked on and delivered **500+ projects** a
 My work focuses on turning ideas into functional prototypes and real-world solutions—from 
 **industrial electronics and motor control to solar PV systems, automation, custom hardware, and fabricated products**.
 
-🛠 Tech Stack
+🛠 **Tech Stack*
 
 **Electronics:** Arduino, ESP32, Raspberry Pi, Sensors, Relays
 
