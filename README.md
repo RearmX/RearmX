@@ -45,9 +45,11 @@ A multi-cell Braille display prototype using electromagnetic relays to create ta
 Tech: Arduino Mega, 24/36 Relays, Custom Wiring, Braille Mapping
 
 
-🔧 Areas of Interest
+🔧 **Areas of Interest**
 Electronics & Embedded Hardware
+
 IoT & Smart Devices
+
 Renewable Energy Systems
 Solar Energy Technology
 PCB & Circuit Prototyping
