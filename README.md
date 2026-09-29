@@ -66,8 +66,6 @@ Automation & Control Systems
 
 📫 Connect with me
 
-Portfolio: Link
+Linkedin: linkedin.com/in/isaiahbeldia01
 
-LinkedIn: Link
-
-Email: email@example.com
+Email: isaiahbeldia@gmail.com
