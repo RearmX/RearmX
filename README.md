@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-Hi there, I'm Isaiah Beldia 👋
+Hi there, We Are REARM Automation 👋
 
 I'm an **Embedded Engineer** building projects at the intersection of **Electronics, IoT, Fabrication, and Renewable Energy**.
 
-With **8 years of experience**, I've worked on and delivered **500+ projects** across 
+With **12 years of experience**, I've worked on and delivered **500+ projects** across 
 **electronics, electrical systems, solar energy, IoT, 3D printing, CAD, and product fabrication**.
 My work focuses on turning ideas into functional prototypes and real-world solutions—from 
 **industrial electronics and motor control to solar PV systems, automation, custom hardware, and fabricated products**.
@@ -66,6 +66,4 @@ Automation & Control Systems
 
 📫 Connect with me
 
-Linkedin: linkedin.com/in/isaiahbeldia01
-
-Email: isaiahbeldia@gmail.com
+Email:
